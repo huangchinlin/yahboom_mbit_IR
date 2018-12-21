@@ -9,7 +9,6 @@
     "files": [
         "shims.d.ts",
         "enums.d.ts",
-        "ir.ts",
         "ir.cpp",
         "ReceiverIR.cpp",
         "ReceiverIR.h",
