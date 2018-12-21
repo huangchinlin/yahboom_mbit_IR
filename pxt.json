@@ -14,7 +14,9 @@
         "ReceiverIR.h",
         "RemoteIR.h",
         "TransmitterIR.cpp",
-        "TransmitterIR.h"
+        "TransmitterIR.h",
+        "_locales/zh/Yahboom_mbit_IR-jsdoc-strings.json",
+        "_locales/zh/Yahboom_mbit_IR-strings.json"
     ],
     "public": true
 }

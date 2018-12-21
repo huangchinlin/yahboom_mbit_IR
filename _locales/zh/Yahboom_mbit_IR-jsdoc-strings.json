@@ -1,4 +1,4 @@
 {
-  "Mbit_IR.init": "initialises local variablesssss",
-  "Mbit_IR.onPressEvent": "button pushed."
+    "Mbit_IR.init": "初始化",
+    "Mbit_IR.onPressEvent": "鍵盤按壓事件"
 }
