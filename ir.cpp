@@ -94,7 +94,7 @@ enum class RemoteButton
 };
 
 //% color=50 weight=19
-//% icon="\uf1eb"
+//% icon="\uf1eb" block="Mbit_IR"
 namespace Mbit_IR
 {
 map<RemoteButton, vA> actions;

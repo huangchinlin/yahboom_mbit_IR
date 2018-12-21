@@ -1,11 +1,8 @@
 // Auto-generated. Do not edit.
 
-
-
-    //% color=50 weight=19
-    //% icon="\uf1eb"
+//% color=50 weight=19
+//% icon="\uf1eb" block="Mbit_IR"
 declare namespace Mbit_IR {
-
     /**
      * button pushed.
      */
