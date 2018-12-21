@@ -110,6 +110,7 @@ RemoteIR::Format fmt = RemoteIR::UNKNOWN;
   */
 //% blockId=ir_received_left_event
 //% block="on |%btn| button pressed"
+//% parts="Mbit_IR"
 void onPressEvent(RemoteButton btn, Action body)
 {
   //if(actions.find(btn) == actions.end()) actions[btn] = new vector();
@@ -153,6 +154,7 @@ void monitorIR()
   */
 //% blockId=ir_init
 //% block="connect ir receiver to %pin"
+//% parts="Mbit_IR"
 void init(Pins pin)
 {
   rx = new ReceiverIR((PinName)pin);
