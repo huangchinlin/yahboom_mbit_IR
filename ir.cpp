@@ -106,8 +106,8 @@ ReceiverIR *rx;
 RemoteIR::Format fmt = RemoteIR::UNKNOWN;
 
 /**
-  * button pushed.
-  */
+      * button pushed.
+      */
 //% blockId=ir_received_left_event
 //% block="on |%btn| button pressed"
 //% parts="Mbit_IR"
@@ -150,8 +150,8 @@ void monitorIR()
 }
 
 /**
-  * initialises local variablesssss
-  */
+      * initialises local variablesssss
+      */
 //% blockId=ir_init
 //% block="connect ir receiver to %pin"
 //% parts="Mbit_IR"
